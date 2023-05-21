@@ -1,4 +1,4 @@
-# Univeth 📿
+# Univeth 
 
 **`IT Student in the EU. Intermediate at best on a good day...`**
 
