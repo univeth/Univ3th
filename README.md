@@ -1,4 +1,6 @@
-### Hi there 👋
+## Univeth 🌠
+
+**`IT Student in the EU. Intermediate at best on a good day...`**
 
 <!--
 **Univ3th/Univ3th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
