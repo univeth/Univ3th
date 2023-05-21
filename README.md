@@ -1,7 +1,8 @@
-## Univeth 🌠
+# Univeth 📿
 
 **`IT Student in the EU. Intermediate at best on a good day...`**
 
+I'm an IT Technology student hailing from the EU. My main passion is the Cybersec field, but I generally love everything regarding different technologies. I often find myself daydreaming about a Solarpunkish future 🌇
 <!--
 **Univ3th/Univ3th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
