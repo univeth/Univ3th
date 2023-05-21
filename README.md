@@ -2,7 +2,7 @@
 
 **`IT Student in the EU. Intermediate at best on a good day...`**
 
-#### IT Technology student hailing from somewhere in the EU. Main passion is the Cybersec field, but I am generally interested in all different kinds of technologies. Often found daydreaming about a solarpunk-ish future 🌇
+#### IT Technology student hailing from somewhere in the EU. Main passion is the Cybersec field, but is generally interested in all different kinds of technologies. Often found daydreaming about a solarpunk-ish future 🌇
 
 ---
 #### Currently, focused on these programming/scripting langauges.
