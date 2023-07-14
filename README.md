@@ -1,8 +1,8 @@
 # Univeth 
 
-**`IT Student in the EU. Intermediate at best on a good day...`**
+**`Aspiring IT Security Specialist`**
 
-#### IT Technology student hailing from somewhere in the EU. Main passion is the Cybersec field, but is generally interested in all different kinds of technologies. Often found daydreaming about a solarpunk-ish future 🌇
+#### IT Technology student from Denmark. Main focus is on DEFSEC.
 
 ---
 #### Currently, focused on these programming/scripting langauges.
